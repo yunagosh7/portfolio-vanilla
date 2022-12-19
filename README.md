@@ -8,3 +8,5 @@
 > * Desarrollo de páginas a partir de un diseño en Figma
 > * Accesibilidad; con el uso de variables de <i>Webkit</i> y <i>Moz</i>
 > * Usar variables de CSS de manera correcta
+
+> Aclaracion: en este proyecto el formulario no tiene funcionalidad 

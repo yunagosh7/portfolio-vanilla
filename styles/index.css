@@ -127,6 +127,10 @@
   margin-bottom: var(--header-height);
 }
 
+.footer a {
+  color: #fff;
+}
+
 .gray-scale {
   filter: grayscale(1);
 }
